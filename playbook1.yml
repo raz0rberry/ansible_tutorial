@@ -1,0 +1,8 @@
+---
+- hosts: nextcloud
+  become: true
+  tasks:
+   
+  - name: Install aptitude
+    apt:
+      name: aptitude

@@ -1,8 +1,8 @@
 [nextcloud]
-192.168.50.11
+server2@192.168.50.11
 
 [valheim_server]
-192.168.50.22
+rob@192.168.50.22
 
 [workstation]
-192.168.50.19
+
